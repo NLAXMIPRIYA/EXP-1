@@ -75,7 +75,8 @@ b.  KCL:
 
 
 
-<img width="879" height="1280" alt="image" src="https://github.com/user-attachments/assets/a42a2adc-fd94-4234-87f0-9e70e2443c77" />
+<img width="1018" height="1174" alt="image" src="https://github.com/user-attachments/assets/31d56eb4-d7dc-46bf-9717-9b813cc93de3" />
+
 
 
 
